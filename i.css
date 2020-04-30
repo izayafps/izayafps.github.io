@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+head{
+  color: #ffffff;
+ }
+
+body{
+  background-color: #000000;
+  background-image: url("GEEK.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+#main{
+  float: left;
+}
+#side{
+  width: 300px;
+  float: right;
+  height: 500px;
+  }
+p{
+  color: #ffffff;
+}
+h1{
+  color: #ff0000;
+  font-family:Impact, sans-serif;
+}
+h2{ 
+  color: #ff0000;
+  font-style:italic;
+}
+li{
+  color: #ffffff;
+}
+ul{
+  color: #ffffff;
+}
