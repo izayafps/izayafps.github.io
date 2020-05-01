@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 head{
-  color: #000000;
+  color: #ffffff;
  }
 
 body{
-  background-color: #ffffff;
+  background-color: #000000;
   background-image: url("logo2.png");
   background-repeat: no-repeat;
   background-position: center;
