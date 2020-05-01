@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 head{
-  color: #ffffff;
+  color: #000000;
  }
 
 body{
-  background-color: #000000;
+  background-color: #ffffff;
   background-image: url("logo2.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -21,19 +21,19 @@ body{
   height: 500px;
   }
 p{
-  color: #ffffff;
+  color: #000000;
 }
 h1{
   color: #009da5;
   font-family:Times New Roman, serif;
 }
 h2{ 
-  color: #ffffff;
+  color: #000000;
   font-style:italic;
 }
 li{
-  color: #ffffff;
+  color: #000000;
 }
 ul{
-  color: #ffffff;
+  color: #000000;
 }
