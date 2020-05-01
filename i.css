@@ -5,7 +5,7 @@ head{
  }
 
 body{
-  background-color: #ffffff;
+  background-color: #0066cc;
   background-image: url("logo1.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -28,7 +28,7 @@ h1{
   font-family:Times New Roman, serif;
 }
 h2{ 
-  color: #009da5;
+  color: #000000;
   font-style:italic;
 }
 li{
