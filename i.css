@@ -5,8 +5,8 @@ head{
  }
 
 body{
-  background-color: #ffffff;
-  background-image: url("logo2.png");
+  background-color: ##4169E1;
+  background-image: url("logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -24,7 +24,7 @@ p{
   color: #000000;
 }
 h1{
-  color: #009da5;
+  color: #000000;
   font-family:Times New Roman, serif;
 }
 h2{ 
