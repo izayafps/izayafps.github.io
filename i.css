@@ -6,7 +6,7 @@ head{
 
 body{
   background-color: #ffffff;
-  background-image: url("izaya.png");
+  background-image: url(".png");
   background-repeat: no-repeat;
   background-position: center;
 }
